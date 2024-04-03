@@ -7,9 +7,18 @@
 - <a  target='_blank'>- 🔭 Atualmente trabalho com Back-end ...</a>
 - <a  target='_blank'>- 🌱 Atualmente estou estudando Django, Javascript, SQL e Docker</a>
 - <a  target='_blank'>- 😄 Pronomes: ele/dele </a>
-- <a  target='_blank'>- 🔭 Atualmente trabalho com Back-end ...</a>
 - <a  target='_blank'>- ⚡ Fun fact: Ex-Adm de servers de comunidade no Discord. </a>
 
 ## 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorigodev&hide_progress=true)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
+  
