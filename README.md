@@ -1,7 +1,7 @@
 ### Olá, Me chamo Murilo, mas todos me conhecem como Dorigo! Seja bem-vindo ao meu perfil do Github <3👋
 
 # 💫 About Me:
-🔭 I’m currently working with django, docker and aws <br>👯 I’m looking to collaborate on open sources projects<br>🌱 I’m currently learning aws and rest
+🔭 I’m currently working with django, docker and aws <br>👯 I’m looking to collaborate on open sources projects<br>🌱 I’m currently learning AWS and rest
 
 
 ## 🌐 Socials:
