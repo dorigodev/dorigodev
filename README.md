@@ -25,8 +25,5 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### <br>Stats<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dorigodev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   
