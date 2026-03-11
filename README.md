@@ -1,8 +1,8 @@
 # 👨‍💻 Murilo Dorigo
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Backend e Analista de Dados`**
 ## 💫 About Me:
-🔭 I’m currently working with django, docker and aws
+🔭 I’m currently working with python with pandas
 <br>👯 I’m looking to collaborate on open sources projects<br>
 🌱 I’m currently learning Java with Springboot
 
